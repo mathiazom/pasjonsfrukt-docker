@@ -1,0 +1,3 @@
+[submodule "pasjonsfrukt"]
+	path = pasjonsfrukt
+	url = git@github.com:mathiazom/pasjonsfrukt.git
